@@ -1,4 +1,4 @@
-# rpi-security-system
+# Motion detection security system using Raspberry Pi 
 
 ## Circuit
 
